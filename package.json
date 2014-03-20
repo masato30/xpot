@@ -1,0 +1,25 @@
+{
+    "name": "xpot",
+    "description": "Web framework for Node.js",
+    "keywords": [
+        "Web",
+        "framework",
+        "MVC"
+    ],
+    "version": "0.1.0",
+    "author": "",
+    "dependencies": {
+        "blowfish": "1.0.x",
+        "canvas": "1.1.x",
+        "eventemitter2": "0.4.x",
+        "mysql": "2.1.x",
+        "netmask": "1.0.x",
+        "iconv": "2.0.x",
+        "openid": "0.5.x",
+        "redis": "0.10.x",
+        "hiredis": "0.1.x"
+    },
+    "engines": {
+        "node": ">=0.10"
+    }
+}
